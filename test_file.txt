@@ -1,5 +1,7 @@
 Date 5-2-25
 
+Bard College!
+
 Hello World!
 
 This test is added to the test branch
@@ -7,3 +9,6 @@ This test is added to the test branch
 Parami University
 
 Charles
+
+NYC
+Done!
